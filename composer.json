@@ -1,0 +1,7 @@
+{
+    "require": {
+        "igdb/api" : "dev-master",
+        "twbs/bootstrap" : "^3.3",
+        "components/jquery": "^3.2"
+    }
+}
